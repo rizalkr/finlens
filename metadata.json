@@ -1,0 +1,6 @@
+{
+  "name": "FinanceTracker",
+  "description": "Premium modern Android finance tracking app with AI-powered receipt scanning features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
